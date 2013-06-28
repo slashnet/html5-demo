@@ -1,0 +1,6 @@
+{
+  author:      'Chris Jacobs',
+  name:        'HTML5 Demo',
+  url:         'html5demo/',
+  description: 'A demo of a HTML5-powered web app.'
+}
